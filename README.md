@@ -10,7 +10,5 @@ After it finishes run `npm start`
 # Environment Variables
 | Variable    | Description        |
 |-------------|--------------------|
-| Port        | The port you want  |
-|             | to run your app at.|
-|             | (Defaults to 5000) |
-|-------------|--------------------|
+| Port        | The port you want  to run your app at(Defaults to 5000) |
+
